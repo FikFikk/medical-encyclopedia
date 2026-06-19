@@ -11,19 +11,13 @@
 - [Pengobatan](#pengobatan)
 - [Pencegahan](#pencegahan)
 - [Prognosis](#prognosis)
+- [Referensi](#referensi)
 
 ---
 
 ## Definisi
 
-**Kesemutan** (istilah medis: **Parestesia**) adalah sensasi abnormal pada kulit berupa:
-- Rasa seperti ditusuk jarum
-- Kebas atau mati rasa
-- Seperti ada semut merayap
-- Sensasi terbakar atau dingin
-- Rasa geli tidak normal
-
-Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
+**Kesemutan** (istilah medis: **Parestesia**) adalah sensasi abnormal pada kulit berupa rasa seperti ditusuk jarum, kebas atau mati rasa, seperti ada semut merayap, sensasi terbakar atau dingin, dan rasa geli tidak normal. Paling sering terjadi di tangan, kaki, lengan, dan tungkai.<sup>[2]</sup>
 
 ---
 
@@ -32,20 +26,13 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 ### A. Penyebab Sementara (Tidak Berbahaya)
 
 #### 1. Tekanan pada Saraf
-- Duduk/tidur dengan posisi yang salah
-- Menyilangkan kaki terlalu lama
-- Memakai tas/ransel terlalu berat
-- **Durasi:** Hilang dalam beberapa menit setelah posisi diubah
+Duduk atau tidur dengan posisi yang salah, menyilangkan kaki terlalu lama, atau memakai tas/ransel terlalu berat dapat menyebabkan kompresi saraf sementara yang hilang dalam beberapa menit setelah posisi diubah.<sup>[12]</sup>
 
 #### 2. Kedinginan
-- Paparan suhu dingin ekstrem
-- Sirkulasi darah melambat sementara
-- Normal kembali setelah menghangatkan tubuh
+Paparan suhu dingin ekstrem menyebabkan sirkulasi darah melambat sementara, yang akan normal kembali setelah menghangatkan tubuh.
 
 #### 3. Hiperventilasi
-- Bernapas terlalu cepat saat panik/cemas
-- Kadar CO2 darah turun
-- Menyebabkan kesemutan di sekitar mulut, tangan, kaki
+Bernapas terlalu cepat saat panik atau cemas menyebabkan kadar CO2 darah turun (respiratory alkalosis), mengakibatkan kesemutan di sekitar mulut, tangan, dan kaki.
 
 ---
 
@@ -53,341 +40,273 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 
 #### 1. DIABETES MELLITUS (Neuropati Diabetik)
 
-**Mekanisme:** Gula darah tinggi merusak serabut saraf kecil
+**Prevalensi & Mekanisme:**
+Neuropati diabetik merupakan komplikasi yang sangat umum, dengan sekitar 50% pasien diabetes mengalaminya dalam 10-20 tahun perjalanan penyakit.<sup>[4]</sup> Hiperglikemia kronis menyebabkan kerusakan serabut saraf kecil melalui jalur metabolik poliol, stres oksidatif, dan glikasi protein.<sup>[4]</sup>
 
 **Gejala:**
-- Kesemutan simetris di kedua kaki (seperti memakai kaus kaki)
+- Kesemutan simetris di kedua kaki (pola "stocking-glove")
 - Bertahap naik ke betis, kemudian tangan
-- Rasa terbakar, nyeri tajam di malam hari
-- Kulit jadi sangat sensitif atau sebaliknya mati rasa
+- Rasa terbakar, nyeri tajam terutama malam hari
+- Kulit sangat sensitif (hiperalgesia) atau mati rasa (hipoestesia)
 
 **Bahaya:**
-- Luka kecil tidak terasa → infeksi → gangren → amputasi
-- 50% pasien diabetes akan mengalami neuropati dalam 10-20 tahun
+Kehilangan sensasi protektif menyebabkan luka kecil tidak terasa, berisiko infeksi, ulkus diabetikum, gangren, dan amputasi.<sup>[4]</sup>
 
 #### 2. DEFISIENSI VITAMIN
 
-##### Vitamin B12 (Paling Sering)
-- **Fungsi:** Pembentukan selubung myelin saraf
-- **Gejala:** Kesemutan di tangan/kaki, kelemahan otot, gangguan keseimbangan, mudah lupa
-- **Penyebab defisiensi:**
-  - Vegetarian/vegan ketat
-  - Gangguan penyerapan (penyakit Crohn, celiac)
-  - Usia lanjut (penyerapan menurun)
-  - Pasca operasi lambung
+**Vitamin B12 (Paling Sering):**
+Defisiensi B12 menyebabkan degenerasi subakut kombinasi medula spinalis dan neuropati perifer.<sup>[5]</sup> Jika tidak ditangani dalam 12 bulan, kerusakan neurologis bisa menjadi ireversibel.<sup>[5]</sup>
 
-##### Vitamin B1 (Thiamine)
-- Alkoholisme kronis
-- Malnutrisi
-- Gejala: Kesemutan + kelemahan otot + gangguan jantung (beri-beri)
+**Gejala:** Kesemutan di tangan/kaki, kelemahan otot, gangguan keseimbangan (ataksia), gangguan kognitif.
 
-##### Vitamin B6
-- Kelebihan (overdosis suplemen) atau kekurangan
-- Kesemutan di tangan dan kaki
+**Penyebab defisiensi:**
+- Diet vegetarian/vegan ketat tanpa suplementasi
+- Gangguan penyerapan (anemia pernisiosa, penyakit Crohn, celiac)
+- Usia lanjut (penurunan produksi faktor intrinsik)
+- Pasca gastrektomi<sup>[5]</sup>
 
-##### Vitamin E
-- Sangat jarang
-- Neuropati + gangguan koordinasi
+**Vitamin B1 (Thiamine):**
+Defisiensi thiamine pada alkoholisme kronis dan malnutrisi menyebabkan beri-beri dengan manifestasi kesemutan, kelemahan otot, dan kardiomiopati.
+
+**Vitamin B6:**
+Baik kekurangan maupun kelebihan (overdosis suplemen >200 mg/hari) dapat menyebabkan neuropati sensorik.<sup>[5]</sup>
 
 #### 3. CARPAL TUNNEL SYNDROME (CTS)
 
-**Mekanisme:** Penekanan saraf median di pergelangan tangan
+CTS adalah neuropati kompresi paling umum, dengan prevalensi 3-6% pada populasi umum dan 14% pada pekerja dengan gerakan repetitif.<sup>[6]</sup>
+
+**Mekanisme:** Penekanan saraf median di terowongan karpal pergelangan tangan.
 
 **Gejala:**
-- Kesemutan di ibu jari, telunjuk, jari tengah, setengah jari manis
+- Kesemutan di distribusi saraf median (ibu jari, telunjuk, jari tengah, setengah radial jari manis)
 - Memburuk malam hari
-- Kelemahan menggenggam
-- Mengibaskan tangan bisa meredakan sementara
+- Kelemahan menggenggam (thumb abduction weakness)
+- Flick sign (mengibaskan tangan meredakan gejala sementara)
 
-**Penyebab:**
-- Gerakan berulang (mengetik, menggunakan mouse)
-- Kehamilan (retensi cairan)
-- Rheumatoid arthritis
-- Diabetes
+**Faktor risiko:** Gerakan repetitif, kehamilan (retensi cairan), rheumatoid arthritis, diabetes, hipotiroidisme.<sup>[6]</sup>
 
 #### 4. PENYAKIT AUTOIMUN
 
-##### Lupus (SLE)
-- Sistem imun menyerang saraf
-- Kesemutan + ruam kupu-kupu di wajah + nyeri sendi
+**Multiple Sclerosis (MS):**
+Kerusakan selubung myelin di sistem saraf pusat menyebabkan parestesia yang berpindah-pindah, sering disertai gangguan penglihatan (optic neuritis), kelemahan, dan vertigo.<sup>[9]</sup>
 
-##### Rheumatoid Arthritis
-- Peradangan sendi menekan saraf
-- Kesemutan di tangan/kaki
+**Guillain-Barré Syndrome (GBS):**
+Polineuropati demielinasi akut pasca-infeksi dengan insidensi 1-2 per 100.000 populasi per tahun.<sup>[7]</sup> Kesemutan dan kelemahan dimulai dari kaki naik cepat ke atas (ascending paralysis), bisa progres menjadi respiratory failure dalam hitungan hari.
 
-##### Multiple Sclerosis (MS)
-- Kerusakan selubung myelin di sistem saraf pusat
-- Kesemutan bisa di bagian tubuh manapun, berpindah-pindah
-- Disertai gangguan penglihatan, kelemahan, vertigo
+**⚠️ EMERGENCY** - memerlukan ICU monitoring dan terapi imunomodulator (IVIG atau plasmapheresis).<sup>[7]</sup>
 
-##### Guillain-Barré Syndrome
-- Sistem imun menyerang saraf perifer
-- Kesemutan dimulai dari kaki, naik cepat ke atas
-- **⚠️ EMERGENCY** - bisa lumpuh total dalam hitungan hari
+**Prognosis:** Sekitar 80% pasien GBS mengalami recovery penuh dalam 6-12 bulan, namun 20% memiliki disabilitas residual.<sup>[7]</sup>
 
 #### 5. GANGGUAN PEMBULUH DARAH
 
-##### Penyakit Arteri Perifer (PAD)
-- Penyumbatan arteri kaki
-- Kesemutan + nyeri saat berjalan + kaki dingin + luka sulit sembuh
+**Stroke / TIA:**
+Kesemutan tiba-tiba di satu sisi tubuh adalah red flag untuk stroke, memerlukan evaluasi emergency dan terapi reperfusi dalam window period 4,5 jam (tPA) atau 24 jam (thrombectomy).<sup>[10]</sup>
 
-##### Stroke / TIA (Transient Ischemic Attack)
-- **⚠️ TANDA BAHAYA:** Kesemutan tiba-tiba di satu sisi tubuh
-- Disertai: kelemahan wajah/lengan/tungkai satu sisi, bicara pelo, pandangan kabur
-- **EMERGENCY** - segera ke IGD!
+**Penyakit Arteri Perifer (PAD):**
+Penyumbatan arteri kaki menyebabkan iskemia dengan gejala kesemutan, nyeri saat berjalan (claudication), kaki dingin, dan luka sulit sembuh.
 
-##### Fenomena Raynaud
-- Kejang pembuluh darah di jari
-- Jari berubah putih → biru → merah
-- Kesemutan saat aliran darah kembali
+#### 6. KERACUNAN & OBAT-OBATAN
 
-#### 6. INFEKSI
+**Chemotherapy-Induced Peripheral Neuropathy (CIPN):**
+Sekitar 30-40% pasien kemoterapi mengalami CIPN, dengan 30% menjadi permanen.<sup>[8]</sup> Agen kemoterapi neurotoksik meliputi platinum (cisplatin, oxaliplatin), taxanes (paclitaxel, docetaxel), vinca alkaloids, dan bortezomib.<sup>[8]</sup>
 
-##### Herpes Zoster (Cacar Ular)
-- Reaktivasi virus varicella (cacar air)
-- Kesemutan/nyeri di satu sisi tubuh mengikuti jalur saraf
-- Diikuti ruam lepuh berisi cairan
+**Alkohol:**
+Konsumsi alkohol kronis menyebabkan neuropati melalui efek toksik langsung dan defisiensi thiamine.
 
-##### HIV/AIDS
-- Neuropati akibat virus atau obat antiretroviral
-- Kesemutan simetris di kaki
-
-##### Penyakit Lyme
-- Dari gigitan kutu
-- Kesemutan + ruam bullseye + demam + nyeri sendi
-
-#### 7. GANGGUAN TIROID
-
-##### Hipotiroidisme
-- Hormon tiroid rendah
-- Metabolisme lambat → retensi cairan → penekanan saraf
-- Kesemutan + kelelahan + berat badan naik + kulit kering
-
-#### 8. TUMOR/KANKER
-
-##### Tumor Otak/Tulang Belakang
-- Menekan saraf
-- Kesemutan progresif di area tertentu
-- Disertai nyeri, kelemahan, gangguan fungsi
-
-##### Paraneoplastic Syndrome
-- Kanker di organ lain (paru, ovarium) memicu antibodi menyerang saraf
-- Kesemutan mendadak + kelemahan
-
-#### 9. GAGAL GINJAL KRONIS
-- Penumpukan toksin uremik merusak saraf
-- Kesemutan di kaki (uremic neuropathy)
-- Disertai: sesak napas, gatal seluruh tubuh, bengkak
-
-#### 10. OBAT-OBATAN
-
-**Kemoterapi**
-- Cisplatin, vincristine, paclitaxel
-- Neuropati permanen
-
-**Obat HIV (Antiretroviral)**
-- Stavudine, didanosine
-
-**Antibiotik**
-- Metronidazole (dosis tinggi/lama)
-- Fluoroquinolone
-
-**Obat Jantung**
-- Amiodarone
-
-**Statin (Kolesterol)**
-- Jarang, tapi bisa
-
-#### 11. KERACUNAN
-
-##### Logam Berat
-- **Timbal (Pb):** Dari cat, air tercemar
-- **Merkuri (Hg):** Ikan terkontaminasi
-- **Arsenik (As):** Air sumur, insektisida
-- Kesemutan + nyeri perut + anemia
-
-##### Alkohol Kronis
-- Kerusakan saraf langsung + defisiensi B1
-- Kesemutan simetris di kaki
+**Logam Berat:**
+Paparan timbal (Pb), merkuri (Hg), dan arsenik (As) menyebabkan neuropati toksik dengan gejala kesemutan, nyeri perut, dan anemia.
 
 ---
 
-## Tanda Bahaya
+## Tanda Bahaya - Segera ke IGD!
 
-### ⚠️ SEGERA KE IGD JIKA:
+Kesemutan yang disertai:<sup>[10]</sup>
 
-1. **Kesemutan tiba-tiba di satu sisi tubuh** (wajah/lengan/tungkai)
-   → Kemungkinan **STROKE**
+1. **Kesemutan tiba-tiba di satu sisi tubuh** (wajah/lengan/tungkai) → Kemungkinan **STROKE**
 
-2. **Kesemutan naik cepat dari kaki ke atas + kelemahan**
-   → Kemungkinan **Guillain-Barré Syndrome**
+2. **Kesemutan naik cepat dari kaki ke atas + kelemahan progresif** → Kemungkinan **Guillain-Barré Syndrome**<sup>[7]</sup>
 
-3. **Kesemutan + nyeri dada + sesak napas**
-   → Kemungkinan **serangan jantung**
+3. **Kesemutan + nyeri dada + sesak napas** → Kemungkinan **serangan jantung**
 
-4. **Kesemutan + kehilangan kontrol BAK/BAB**
-   → Kemungkinan **cauda equina syndrome** (penekanan saraf tulang belakang)
+4. **Kesemutan + kehilangan kontrol BAK/BAB** → Kemungkinan **cauda equina syndrome** (kompresi saraf tulang belakang)
 
-5. **Kesemutan + kebingungan + kejang**
-   → Kemungkinan **hipoglikemia berat** atau gangguan elektrolit
+5. **Kesemutan + kebingungan + kejang** → Kemungkinan **hipoglikemia berat** atau gangguan elektrolit
 
-6. **Kesemutan + kesulitan bernapas**
-   → Kemungkinan **reaksi alergi berat (anafilaksis)**
+6. **Kesemutan + kesulitan bernapas** → Kemungkinan **reaksi alergi berat (anafilaksis)** atau ascending paralysis (GBS)
 
 ---
 
 ## Kapan Harus ke Dokter
 
-### Segera (dalam 24-48 jam):
-- Kesemutan menetap > 2-3 hari tanpa sebab jelas
+**Segera (dalam 24-48 jam):**
+- Kesemutan menetap >2-3 hari tanpa sebab jelas
 - Kesemutan bertambah parah atau menyebar
 - Disertai kelemahan otot
-- Luka/lecet tidak terasa sakit (kehilangan sensasi)
+- Luka/lecet tidak terasa sakit (kehilangan sensasi protektif)
 - Kesemutan muncul setelah cedera kepala/leher
 - Kesemutan + gangguan buang air
 
-### Bisa dijadwalkan (1-2 minggu):
+**Bisa dijadwalkan (1-2 minggu):**
 - Kesemutan hilang-timbul ringan
 - Kesemutan saat posisi tertentu saja
-- Riwayat diabetes/penyakit kronis lain
+- Riwayat diabetes atau penyakit kronis lain
 
 ---
 
 ## Pemeriksaan Medis
 
 ### 1. Anamnesis (Wawancara)
-- Lokasi, durasi, frekuensi kesemutan
-- Riwayat penyakit (diabetes, autoimun, dll)
-- Obat-obatan yang dikonsumsi
-- Paparan zat kimia/logam berat
-- Konsumsi alkohol
+Dokter akan menanyakan lokasi, durasi, pola kesemutan, riwayat penyakit, obat-obatan, paparan toksin, dan konsumsi alkohol.<sup>[12]</sup>
 
-### 2. Pemeriksaan Fisik
-- Tes sensasi (tusukan, sentuhan, getaran, suhu)
-- Tes refleks
-- Tes kekuatan otot
-- Pemeriksaan pembuluh darah (denyut nadi)
+### 2. Pemeriksaan Fisik Neurologis
+- Tes sensasi (tusukan, sentuhan ringan, getaran dengan tuning fork 128 Hz, suhu)
+- Tes refleks tendon dalam
+- Tes kekuatan otot (Medical Research Council scale)
+- Pemeriksaan pembuluh darah (pulsasi arteri dorsalis pedis)
 
-### 3. Pemeriksaan Penunjang
+### 3. Pemeriksaan Laboratorium
 
-#### Darah:
-- Gula darah (HbA1c) → diabetes
-- Vitamin B12, B1, B6
-- Fungsi ginjal (ureum, kreatinin)
-- Fungsi tiroid (TSH, T4)
-- Elektrolit (kalium, kalsium, magnesium)
-- ANA (antibodi) → autoimun
+**Darah:**<sup>[12]</sup>
+- Gula darah puasa & HbA1c (diabetes)
+- Vitamin B12, B1, B6, folat
+- Fungsi ginjal (ureum, kreatinin, eGFR)
+- Fungsi tiroid (TSH, fT4)
+- Elektrolit (Na, K, Ca, Mg)
+- Hitung darah lengkap (CBC)
+- ANA, RF (penyakit autoimun)
 
-#### Elektrofisiologi:
-- **EMG (Elektromiografi):** Aktivitas listrik otot
-- **NCS (Nerve Conduction Study):** Kecepatan hantar saraf
-- Mendeteksi lokasi dan tingkat kerusakan saraf
+### 4. Elektrofisiologi
 
-#### Pencitraan:
-- **MRI otak/tulang belakang:** Tumor, herniasi diskus, MS
-- **CT scan:** Stroke, perdarahan
-- **Ultrasound:** Carpal tunnel, tumor saraf
+**EMG (Elektromiografi) & NCS (Nerve Conduction Study):**
+Pemeriksaan elektrofisiologi adalah standar emas untuk mendeteksi lokasi, tipe (aksonal vs demielinasi), dan tingkat keparahan neuropati.<sup>[11]</sup>
+
+**Indikasi:**
+- Diagnosis neuropati perifer
+- Membedakan neuropati, radikulopati, pleksopati, atau miopati
+- Monitoring progresi penyakit
+
+### 5. Pencitraan
+
+**MRI otak/spinal:**
+- Multiple sclerosis (lesi white matter)
+- Herniasi diskus (radikulopati)
+- Tumor medula spinalis
+- Stroke/TIA
+
+**CT scan:** Stroke akut, perdarahan intrakranial
 
 ---
 
 ## Pengobatan
 
-### Penyebab Sementara
-- Ubah posisi/istirahatkan area yang tertekan
-- Kompres hangat
-- Pijat ringan
-- Hindari menyilangkan kaki lama
+Pengobatan bergantung pada penyebab spesifik:
 
-### Diabetes
-- Kontrol gula darah ketat (HbA1c < 7%)
-- Obat neuropati: pregabalin, gabapentin, duloxetine
-- Suplemen alpha-lipoic acid
-- Perawatan kaki ketat
+### Diabetes Neuropathy
+
+**Kontrol Glikemik Ketat:**
+Target HbA1c <7% untuk mencegah progresi neuropati.<sup>[4]</sup>
+
+**Farmakologi untuk Nyeri Neuropatik:**<sup>[13,14]</sup>
+
+1. **Pregabalin** (first-line)
+   - Dosis: 150-600 mg/hari (dibagi 2 dosis)
+   - NNT: 7-8 untuk 50% pain reduction<sup>[13]</sup>
+   - Efek samping: Drowsiness, dizziness, weight gain
+
+2. **Gabapentin** (first-line)
+   - Dosis: 1200-3600 mg/hari (dibagi 3 dosis)
+   - NNT: 7<sup>[14]</sup>
+   - Efek samping: Sedasi, dizziness
+
+3. **Duloxetine** (SNRI)
+   - Dosis: 60-120 mg/hari
+   - Berguna jika disertai depresi komorbid
+
+4. **Amitriptyline** (TCA)
+   - Dosis: 10-75 mg malam hari
+   - Kontraindikasi: Glaukoma, aritmia, prostat hipertrofi
+
+**Alpha-Lipoic Acid:**
+Antioksidan dengan evidence moderat (600 mg/hari) untuk mengurangi gejala neuropati diabetik.<sup>[15]</sup>
 
 ### Defisiensi Vitamin
-- **B12:** Injeksi cyanocobalamin 1000 mcg (1-2x/minggu), lalu oral maintenance
-- **B1:** Thiamine 100-300 mg/hari
-- **B6:** 50-100 mg/hari (hati-hati overdosis!)
 
-### Carpal Tunnel Syndrome
-- Wrist splint (penyangga pergelangan tangan) saat tidur
-- Fisioterapi
-- Injeksi kortikosteroid
-- Operasi (release) jika berat
+**Vitamin B12:**<sup>[5]</sup>
+- **Fase akut:** Cyanocobalamin 1000 mcg IM/SC, 1-2x per minggu selama 4-8 minggu
+- **Maintenance:** Oral 1000-2000 mcg/hari (absorpsi pasif cukup bahkan tanpa faktor intrinsik)
+- Monitoring: Serum B12, MMA (methylmalonic acid)
 
-### Autoimun
-- Imunosupresan (kortikosteroid, methotrexate, dll)
-- IVIG (imunoglobulin intravena) untuk Guillain-Barré
+**Vitamin B1:**
+- Thiamine 100-300 mg/hari oral untuk defisiensi ringan
+- Thiamine 100 mg IV untuk beri-beri atau Wernicke encephalopathy
 
-### Stroke/TIA
-- **EMERGENCY:** tPA (tissue plasminogen activator) dalam 4,5 jam
-- Antiplatelet (aspirin, clopidogrel)
-- Kontrol faktor risiko (hipertensi, kolesterol)
+### Carpal Tunnel Syndrome<sup>[6]</sup>
+
+**Konservatif (mild-moderate):**
+- Wrist splint neutral position (terutama malam hari)
+- Modifikasi ergonomi
+- NSAID untuk inflamasi
+- Injeksi kortikosteroid lokal
+
+**Bedah (severe atau refractory):**
+- Carpal tunnel release (open atau endoscopic)
+- Success rate >90%
+
+### Guillain-Barré Syndrome<sup>[7]</sup>
+
+**Imunoterapi (dalam 2-4 minggu onset):**
+- **IVIG** (intravenous immunoglobulin) 0,4 g/kg/hari selama 5 hari, ATAU
+- **Plasmapheresis** (plasma exchange) 5 sesi over 2 minggu
+
+Keduanya equally effective, kombinasi tidak lebih baik.
+
+**Suportif:**
+- ICU monitoring (respiratory function, autonomic instability)
+- Ventilasi mekanik jika FVC <15-20 mL/kg
+- DVT prophylaxis
+- Rehabilitasi fisik
 
 ---
 
 ## Pencegahan
 
-### 1. Kontrol Penyakit Kronis
-- Diabetes: HbA1c < 7%
-- Hipertensi: < 140/90 mmHg
-- Kolesterol: LDL < 100 mg/dL
+1. **Kontrol Penyakit Kronis**
+   - Diabetes: HbA1c <7%
+   - Hipertensi: <140/90 mmHg
+   - Target ketat mengurangi risiko neuropati<sup>[4]</sup>
 
-### 2. Nutrisi Seimbang
-- Cukup vitamin B (daging, ikan, telur, kacang, sayuran hijau)
-- Vegetarian: Suplemen B12 wajib
+2. **Nutrisi Seimbang**
+   - Cukup vitamin B (daging, ikan, telur, kacang, sayuran hijau)
+   - **Vegetarian/vegan:** Suplementasi B12 wajib (tidak ada sumber plant-based yang adekuat)<sup>[5]</sup>
 
-### 3. Ergonomi Kerja
-- Posisi duduk benar
-- Monitor setinggi mata
-- Keyboard/mouse ergonomis
-- Istirahat 5 menit tiap 1 jam
+3. **Ergonomi Kerja**<sup>[6]</sup>
+   - Posisi duduk ergonomis
+   - Monitor setinggi mata, keyboard/mouse neutral position
+   - Break 5 menit setiap 1 jam
 
-### 4. Hindari Alkohol Berlebihan
+4. **Hindari Alkohol Berlebihan**
 
-### 5. Olahraga Teratur
-- 150 menit/minggu
-- Meningkatkan sirkulasi darah
+5. **Olahraga Teratur**
+   - 150 menit/minggu aktivitas aerobik
+   - Meningkatkan sirkulasi darah dan kontrol glikemik
 
-### 6. Jaga Berat Badan Ideal
+6. **Jaga Berat Badan Ideal**
+   - Obesitas adalah faktor risiko CTS dan neuropati diabetik
 
 ---
 
 ## Prognosis
 
-| Penyebab | Prognosis |
-|----------|-----------|
-| Tekanan sementara | Hilang total dalam hitungan menit |
-| Defisiensi vitamin (tertangani cepat) | Perbaikan dalam 2-6 bulan |
-| Carpal tunnel (ringan) | 80% sembuh dengan konservatif |
-| Neuropati diabetik | Bisa dikontrol, jarang sembuh total |
-| Multiple sclerosis | Kronik, butuh terapi seumur hidup |
-| Guillain-Barré | 80% pulih total, butuh 6-12 bulan |
-| Stroke | Tergantung kecepatan penanganan |
-
----
-
-## Ringkasan
-
-**Kesemutan = Tanda saraf bermasalah**
-
-### Penyebab paling sering:
-1. Tekanan/posisi salah (sementara)
-2. Diabetes (neuropati)
-3. Defisiensi vitamin B12
-4. Carpal tunnel syndrome
-
-### Kapan khawatir:
-- Kesemutan > 3 hari tanpa sebab jelas
-- Disertai kelemahan
-- Menyebar/makin parah
-- Tiba-tiba satu sisi tubuh (STROKE!)
-
-### Kunci pencegahan:
-- Kontrol gula darah
-- Nutrisi cukup vitamin B
-- Posisi/ergonomi baik
-- Hindari alkohol
+| Penyebab | Prognosis | Referensi |
+|----------|-----------|-----------|
+| Tekanan sementara | Hilang total dalam hitungan menit | - |
+| Defisiensi vitamin (tertangani cepat) | Perbaikan dalam 2-6 bulan; ireversibel jika >12 bulan | [5] |
+| Carpal tunnel (ringan) | 80% sembuh dengan terapi konservatif | [6] |
+| Neuropati diabetik | Bisa dikontrol, jarang sembuh total | [4] |
+| Multiple sclerosis | Kronik relapsing-remitting, butuh terapi seumur hidup | [9] |
+| Guillain-Barré | 80% pulih total dalam 6-12 bulan; 20% disabilitas residual; mortalitas 3-5% | [7] |
+| CIPN | 30% permanen meskipun kemoterapi dihentikan | [8] |
+| Stroke | Tergantung kecepatan reperfusi dan luas infark | [10] |
 
 ---
 
@@ -396,36 +315,30 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 ### Clinical Guidelines & Organizations
 
 1. **American Academy of Neurology (AAN)**
-   - *Diabetic Neuropathy: A Position Statement by the American Diabetes Association*. Diabetes Care. 2017;40(1):136-154. doi:10.2337/dc16-2042
+   - American Diabetes Association. *Diabetic Neuropathy: A Position Statement by the American Diabetes Association*. Diabetes Care. 2017;40(1):136-154. doi:10.2337/dc16-2042
 
 2. **National Institute of Neurological Disorders and Stroke (NINDS)**
-   - *Peripheral Neuropathy Fact Sheet*. NIH Publication No. 23-NS-4853. Updated 2024.
+   - *Peripheral Neuropathy Fact Sheet*. NIH Publication No. 23-NS-4853. Updated 2024. https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy
 
 3. **European Federation of Neurological Societies (EFNS)**
    - Lauria G, et al. *European Federation of Neurological Societies/Peripheral Nerve Society Guideline on the use of skin biopsy in the diagnosis of small fiber neuropathy*. J Peripher Nerv Syst. 2010;15(2):79-92. doi:10.1111/j.1529-8027.2010.00269.x
 
 ### Peer-Reviewed Research
 
-4. **Diabetic Neuropathy Prevalence**
+4. **Diabetic Neuropathy Prevalence & Pathophysiology**
    - Callaghan BC, et al. *Diabetic neuropathy: clinical manifestations and current treatments*. Lancet Neurol. 2012;11(6):521-534. doi:10.1016/S1474-4422(12)70065-0
-   - **Data:** 50% pasien diabetes mengalami neuropati dalam 10-20 tahun
 
 5. **Vitamin B12 Deficiency Neuropathy**
    - Stabler SP. *Vitamin B12 deficiency*. N Engl J Med. 2013;368(2):149-160. doi:10.1056/NEJMcp1113996
-   - **Data:** Defisiensi B12 menyebabkan neuropati ireversibel jika >12 bulan tanpa terapi
 
 6. **Carpal Tunnel Syndrome**
    - Padua L, et al. *Carpal tunnel syndrome: clinical features, diagnosis, and management*. Lancet Neurol. 2016;15(12):1273-1284. doi:10.1016/S1474-4422(16)30231-9
-   - **Prevalence:** 3-6% populasi umum, 14% pekerja dengan gerakan repetitif
 
 7. **Guillain-Barré Syndrome**
    - Willison HJ, et al. *Guillain-Barré syndrome*. Lancet. 2016;388(10045):717-727. doi:10.1016/S0140-6736(16)00339-1
-   - **Incidence:** 1-2 per 100.000 populasi per tahun
-   - **Prognosis:** 80% recovery penuh dalam 6-12 bulan
 
 8. **Chemotherapy-Induced Peripheral Neuropathy (CIPN)**
    - Seretny M, et al. *Incidence, prevalence, and predictors of chemotherapy-induced peripheral neuropathy: A systematic review and meta-analysis*. Pain. 2014;155(12):2461-2470. doi:10.1016/j.pain.2014.09.020
-   - **Data:** 30-40% pasien kemoterapi mengalami CIPN, 30% bersifat permanen
 
 9. **Multiple Sclerosis**
    - Reich DS, et al. *Multiple Sclerosis*. N Engl J Med. 2018;378(2):169-180. doi:10.1056/NEJMra1401483
@@ -438,14 +351,13 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 11. **Electrophysiology (EMG/NCS)**
     - England JD, et al. *Practice parameter: evaluation of distal symmetric polyneuropathy: role of autonomic testing, nerve biopsy, and skin biopsy (an evidence-based review)*. Neurology. 2009;72(2):177-184. doi:10.1212/01.wnl.0000336345.70511.0f
 
-12. **Laboratory Testing**
+12. **Laboratory Testing & Clinical Evaluation**
     - Hanewinckel R, et al. *Diagnostic value of signs and symptoms in assessing polyneuropathy*. Neurology. 2016;87(6):569-575. doi:10.1212/WNL.0000000000002977
 
 ### Treatment Evidence
 
 13. **Pregabalin for Neuropathic Pain**
     - Derry S, et al. *Pregabalin for neuropathic pain in adults (Cochrane Review)*. Cochrane Database Syst Rev. 2019;1(1):CD007076. doi:10.1002/14651858.CD007076.pub3
-    - **NNT (Number Needed to Treat):** 7-8 untuk 50% pain reduction
 
 14. **Gabapentin for Neuropathic Pain**
     - Wiffen PJ, et al. *Gabapentin for chronic neuropathic pain in adults (Cochrane Review)*. Cochrane Database Syst Rev. 2017;6(6):CD007938. doi:10.1002/14651858.CD007938.pub4
@@ -453,30 +365,23 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 15. **Alpha-Lipoic Acid for Diabetic Neuropathy**
     - Ziegler D, et al. *Efficacy and safety of antioxidant treatment with α-lipoic acid over 4 years in diabetic polyneuropathy: the NATHAN 1 trial*. Diabetes Care. 2011;34(9):2054-2060. doi:10.2337/dc11-0503
 
-### Epidemiology Data
-
-16. **Global Burden of Disease Study**
-    - GBD 2019 Diseases and Injuries Collaborators. *Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019*. Lancet. 2020;396(10258):1204-1222. doi:10.1016/S0140-6736(20)30925-9
-
-### Online Medical Resources
-
-17. **UpToDate** - Clinical decision support resource (subscription required)
-    - *Evaluation of polyneuropathy* - Updated 2024
-    - *Diabetic polyneuropathy: Treatment* - Updated 2024
-
-18. **Medscape Reference**
-    - *Peripheral Neuropathy* - https://emedicine.medscape.com/article/1173325
-
 ---
 
 **Level of Evidence Classification:**
-- **Grade A:** Strong recommendation, high-quality evidence (RCT, systematic reviews)
-- **Grade B:** Moderate recommendation, moderate evidence
+- **Grade A:** Strong recommendation, high-quality evidence (RCT, systematic reviews, meta-analyses)
+- **Grade B:** Moderate recommendation, moderate-quality evidence
 - **Grade C:** Weak recommendation, low-quality evidence (expert opinion, case series)
 
-**Disclaimer:** 
-Materi ini untuk edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Semua keputusan diagnostik dan terapeutik harus dilakukan oleh dokter yang merawat dengan mempertimbangkan kondisi klinis individual pasien.
+**Rekomendasi berdasarkan evidence:**
+- **Grade A:** Pregabalin/gabapentin untuk nyeri neuropatik diabetik; IVIG/plasmapheresis untuk GBS; kontrol glikemik ketat untuk mencegah progresi neuropati diabetik
+- **Grade B:** Alpha-lipoic acid untuk neuropati diabetik; wrist splint untuk CTS
+- **Grade C:** Akupunktur, suplemen vitamin tanpa defisiensi terbukti
 
-**Conflict of Interest:** Tidak ada konflik kepentingan dalam penyusunan materi ini.
+**Disclaimer:** 
+Materi ini disusun untuk tujuan edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Semua keputusan diagnostik dan terapeutik harus dilakukan oleh dokter yang merawat dengan mempertimbangkan kondisi klinis individual pasien, kontraindikasi, interaksi obat, dan preferensi pasien.
+
+**Conflict of Interest:** Tidak ada konflik kepentingan dalam penyusunan materi ini. Penulis tidak menerima funding dari industri farmasi atau perusahaan terkait.
+
+**Peer Review:** Materi ini belum melalui peer review formal. Untuk keperluan akademik atau klinis, mohon verifikasi dengan sumber primer.
 
 **Last Updated:** 19 Juni 2026
