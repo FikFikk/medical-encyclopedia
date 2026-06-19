@@ -11,13 +11,14 @@
 - [Pengobatan](#pengobatan)
 - [Pencegahan](#pencegahan)
 - [Mitos vs Fakta](#mitos-vs-fakta)
+- [Referensi](#referensi)
 
 ---
 
 ## Definisi
 
 ### GERD (Gastroesophageal Reflux Disease)
-Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menyebabkan iritasi dan peradangan.
+GERD adalah kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menyebabkan iritasi dan peradangan.<sup>[1]</sup> Prevalensi global GERD sekitar 13%, dengan variasi regional: 8-10% di Asia dan 18-28% di Amerika/Eropa.<sup>[4]</sup>
 
 ### Istilah Terkait:
 - **Heartburn / Ulu hati panas:** Sensasi terbakar di dada akibat asam lambung
@@ -32,57 +33,47 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 ### A. Faktor Mekanis
 
 #### 1. Lower Esophageal Sphincter (LES) Lemah
-- **Normal:** LES menutup rapat setelah makanan masuk lambung
-- **GERD:** LES lemah/rileks tidak pada waktunya → asam bocor ke kerongkongan
+Dalam kondisi normal, LES menutup rapat setelah makanan masuk lambung.<sup>[1]</sup> Pada GERD, LES lemah atau rileks tidak pada waktunya, menyebabkan asam bocor ke kerongkongan.
 
 **Penyebab LES lemah:**
 - Hernia hiatus (lambung naik ke rongga dada)
-- Kehamilan (tekanan janin)
-- Obesitas (tekanan perut tinggi)
-- Penuaan
+- Kehamilan (tekanan janin pada perut)
+- Obesitas - setiap penurunan 1 poin BMI mengurangi gejala GERD sebesar 10%<sup>[5]</sup>
+- Penuaan (penurunan tonus otot)
 
 #### 2. Delayed Gastric Emptying
-- Pengosongan lambung lambat
-- Makanan tertahan lebih lama → produksi asam meningkat
+Pengosongan lambung yang lambat menyebabkan makanan tertahan lebih lama, meningkatkan produksi asam dan tekanan intragastrik.
 
 ### B. Faktor Makanan & Minuman
 
-**Pemicu Umum:**
-- ☕ Kopi & kafein (rileks LES)
-- 🍫 Cokelat
-- 🍅 Tomat & saus tomat (asam tinggi)
-- 🧄 Bawang putih & bawang bombay
-- 🌶️ Makanan pedas
-- 🍕 Makanan berlemak/gorengan (lambat dicerna)
-- 🥤 Minuman bersoda
-- 🍊 Buah asam (jeruk, lemon)
-- 🍷 Alkohol
-- 🍬 Peppermint
+**Pemicu yang terbukti secara evidence-based:**<sup>[16]</sup>
+- ☕ **Kopi & kafein** - merilekskan LES
+- 🍫 **Cokelat** - mengandung methylxanthine
+- 🍅 **Tomat & saus tomat** - pH asam tinggi
+- 🧄 **Bawang putih & bawang bombay**
+- 🌶️ **Makanan pedas**
+- 🍕 **Makanan berlemak/gorengan** - memperlambat pengosongan lambung
+- 🥤 **Minuman bersoda** - meningkatkan tekanan intragastrik
+- 🍊 **Buah asam** (jeruk, lemon)
+- 🍷 **Alkohol** - mengiritasi mukosa dan rileks LES
+- 🍬 **Peppermint** - efek relaksasi LES
 
 ### C. Gaya Hidup
 
-- Makan porsi besar
-- Makan terlalu dekat dengan waktu tidur (< 2-3 jam)
+- Makan porsi besar (meningkatkan tekanan)
+- Makan <2-3 jam sebelum tidur
 - Langsung berbaring setelah makan
-- Merokok (rileks LES + kurangi saliva)
-- Pakaian ketat di perut
+- Merokok - mengurangi produksi saliva dan melemahkan LES
+- Pakaian ketat di perut - meningkatkan tekanan abdominal
 
 ### D. Obat-obatan
 
+Beberapa obat dapat memperburuk GERD:<sup>[1]</sup>
 - Aspirin & NSAID (ibuprofen, naproxen)
-- Obat jantung (calcium channel blockers)
-- Obat asma (theophylline)
-- Obat tidur (benzodiazepine)
+- Calcium channel blockers (obat hipertensi)
+- Theophylline (obat asma)
+- Benzodiazepine (obat tidur)
 - Antidepresan trisiklik
-
-### E. Kondisi Medis
-
-- **Obesitas** (BMI > 30)
-- **Kehamilan**
-- **Hiatal hernia**
-- **Gastroparesis** (pengosongan lambung lambat - sering pada diabetes)
-- **Scleroderma** (penyakit autoimun)
-- **Zollinger-Ellison syndrome** (tumor penghasil asam)
 
 ---
 
@@ -90,8 +81,8 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 ### Gejala Utama (Esofagus)
 
-**1. Heartburn (Ulu Hati Panas)** ⭐ Paling Khas
-- Sensasi terbakar di dada tengah
+**1. Heartburn (Ulu Hati Panas)** ⭐ Paling Khas<sup>[1]</sup>
+- Sensasi terbakar di dada tengah/retrosternal
 - Naik ke leher/tenggorokan
 - Memburuk setelah makan atau berbaring
 - Durasi: beberapa menit hingga jam
@@ -99,7 +90,7 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 **2. Regurgitasi**
 - Asam/makanan naik kembali ke mulut
 - Rasa asam/pahit di mulut
-- Tanpa mual/muntah
+- Tanpa mual/muntah aktif
 
 **3. Disfagia (Sulit Menelan)**
 - Makanan terasa tersangkut di dada
@@ -110,7 +101,7 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 **Tenggorokan & Mulut:**
 - Suara serak (terutama pagi hari)
 - Batuk kronis kering
-- Rasa ada benjolan di tenggorokan (globus sensation)
+- Globus sensation (rasa benjolan di tenggorokan)
 - Sakit tenggorokan berulang
 - Erosi enamel gigi
 
@@ -120,7 +111,7 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 - Pneumonia aspirasi berulang
 
 **Lainnya:**
-- Nyeri dada (mirip serangan jantung!)
+- Nyeri dada (bisa mirip angina - perlu EKG untuk membedakan!)
 - Mual
 - Kembung
 - Sendawa berlebihan
@@ -130,89 +121,76 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 ## Komplikasi
 
 ### 1. Esofagitis (Peradangan Kerongkongan)
-- Kemerahan, bengkak, erosi
-- Grade A-D (ringan hingga berat)
+Klasifikasi Los Angeles Grade A-D (ringan hingga berat), dengan kemerahan, erosi, dan ulserasi mukosa.
 
 ### 2. Striktur Esofagus
-- Penyempitan kerongkongan akibat jaringan parut
-- Sulit menelan makanan padat
-- Perlu dilatasi (pelebaran)
+Penyempitan kerongkongan akibat fibrosis/jaringan parut kronis, menyebabkan disfagia progresif. Memerlukan dilatasi endoskopi.
 
 ### 3. Barrett's Esophagus
-- Sel kerongkongan normal → berubah jadi sel usus
-- **PREKANKER** - risiko kanker esofagus 0,5-1% per tahun
-- Perlu EGD surveillance rutin
+Metaplasia sel epitel skuamosa kerongkongan menjadi epitel kolumnar intestinal (prekanker).<sup>[6]</sup> Risiko progresi menjadi adenocarcinoma esofagus adalah 0,12-0,5% per tahun pada Barrett's tanpa displasia.<sup>[6]</sup> Memerlukan surveillance endoskopi rutin.
 
-### 4. Kanker Esofagus
-- Adenocarcinoma esofagus
-- Dari Barrett's yang tidak terkontrol
-- Prognosis buruk jika stadium lanjut
+### 4. Adenocarcinoma Esofagus
+Kanker esofagus yang berkembang dari Barrett's esophagus.<sup>[7]</sup> Insidensi meningkat drastis dalam 40 tahun terakhir di negara Barat. Prognosis buruk jika terdeteksi stadium lanjut (5-year survival <20%).
 
 ### 5. Ulkus (Luka) Esofagus
-- Bisa berdarah
-- Nyeri menelan hebat
+Dapat menyebabkan perdarahan (hematemesis, melena) dan nyeri menelan hebat (odinofagia).
 
 ### 6. Gangguan Paru
-- Asma sulit dikontrol
-- Bronkitis kronis
-- Pneumonia aspirasi
+GERD dapat memperburuk asma yang sudah ada atau menyebabkan bronkitis kronis dan pneumonia aspirasi berulang.
 
 ---
 
 ## Diagnosis
 
-### 1. Klinis (Berdasarkan Gejala)
-- Heartburn ≥ 2x per minggu selama beberapa minggu
-- Trial PPI (Proton Pump Inhibitor) 4-8 minggu
-- Jika membaik → diagnosis GERD
+### 1. Klinis (Berdasarkan Gejala)<sup>[1]</sup>
+- Heartburn ≥2x per minggu selama beberapa minggu
+- Trial PPI empirik 4-8 minggu
+- Jika membaik →diagnosis GERD (PPI test)
 
 ### 2. Endoskopi (EGD - Esophagogastroduodenoscopy)
 
-**Indikasi:**
-- Gejala alarm (sulit menelan, penurunan berat badan, perdarahan)
-- Gejala > 5 tahun (screen Barrett's)
-- Tidak respons terapi PPI
-- Usia > 50 tahun + gejala baru
+**Indikasi:**<sup>[1,3]</sup>
+- Alarm symptoms: disfagia, penurunan berat badan, perdarahan GI
+- Gejala GERD >5-10 tahun (screen Barrett's)
+- Tidak respons terapi PPI adekuat
+- Usia >50 tahun dengan gejala baru
 
 **Temuan:**
-- Esofagitis (grade A-D)
+- Esofagitis erosif (Los Angeles grade A-D)
 - Barrett's esophagus
 - Striktur
 - Hernia hiatus
-- **50% GERD endoskopi normal** (NERD - Non-Erosive Reflux Disease)
+- **Catatan:** 50-70% pasien GERD memiliki endoskopi normal (NERD - Non-Erosive Reflux Disease)<sup>[12]</sup>
 
-### 3. pH-Metry 24 Jam
-- Kateter kecil di kerongkongan 24 jam
-- Ukur frekuensi & durasi paparan asam
-- **Gold standard** untuk diagnosis GERD
-- Indikasi: endoskopi normal tapi gejala persisten
+### 3. pH-Metry 24 Jam (Impedance-pH Monitoring)
+**Gold standard** untuk diagnosis GERD.<sup>[13]</sup> Kateter kecil di kerongkongan selama 24 jam mengukur frekuensi & durasi paparan asam.
+
+**Indikasi:**
+- Endoskopi normal tapi gejala persisten
+- Evaluasi pre-operasi (fundoplication)
+- Menilai kegagalan terapi PPI
 
 ### 4. Manometri Esofagus
-- Ukur tekanan & kontraksi kerongkongan
-- Evaluasi fungsi LES
-- Pre-operasi (fundoplication)
+Mengukur tekanan & kontraksi kerongkongan serta fungsi LES. Terutama penting untuk evaluasi pre-operasi.<sup>[2]</sup>
 
 ### 5. Barium Swallow (Esofagografi)
-- Minum barium + foto rontgen
-- Lihat anatomi: hernia hiatus, striktur
-- Kurang sensitif untuk GERD ringan
+Minum barium + foto rontgen untuk evaluasi anatomi (hernia hiatus, striktur). Kurang sensitif untuk GERD ringan.
 
 ---
 
 ## Pengobatan
 
-### A. Perubahan Gaya Hidup (WAJIB!)
+### A. Perubahan Gaya Hidup (WAJIB!)<sup>[1,18]</sup>
 
 #### Diet:
-✅ **Boleh/Dianjurkan:**
+✅ **Dianjurkan:**
 - Oatmeal, roti gandum
 - Sayuran non-asam (brokoli, kembang kol, kentang)
 - Protein rendah lemak (ayam tanpa kulit, ikan, putih telur)
 - Pisang, melon, apel
-- Jahe (anti-inflamasi)
-- Lidah buaya
+- Jahe (anti-inflamasi natural)
 
-❌ **Hindari:**
+❌ **Hindari:**<sup>[16]</sup>
 - Kopi, teh, soda
 - Cokelat
 - Makanan pedas, asam, berlemak, gorengan
@@ -226,8 +204,8 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 - Jangan langsung berbaring setelah makan
 
 #### Gaya Hidup:
-- **Elevasi kepala tempat tidur 15-20 cm** (bukan cuma pakai bantal tinggi!)
-- Turunkan berat badan jika obesitas (target BMI < 25)
+- **Elevasi kepala tempat tidur 15-20 cm** (bukan cuma pakai bantal tinggi - seluruh torso harus elevated)
+- Turunkan berat badan jika obesitas (target BMI <25)<sup>[5]</sup>
 - Berhenti merokok
 - Hindari pakaian ketat
 - Kelola stres
@@ -236,171 +214,185 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 #### 1. Antasida (Gejala Ringan, Sesekali)
 **Contoh:** Mylanta, Promag, Polysilane
-- Netralkan asam lambung
+- Menetralkan asam lambung
 - **Onset cepat** (5-10 menit)
 - **Durasi pendek** (30-60 menit)
 - Untuk relief sesekali, bukan terapi jangka panjang
 
 #### 2. H2 Receptor Antagonist (H2RA)
-**Contoh:** 
-- Ranitidine (ditarik dari pasar - karsinogen)
-- **Famotidine (Facid)** - alternatif aman
-- Cimetidine
+**Contoh:** Famotidine (Facid) 20 mg 2x/hari
+- Blok reseptor histamin → kurangi produksi asam
+- Onset: 30-60 menit, Durasi: 6-12 jam
+- Healing rate: 52% untuk esofagitis grade II-IV<sup>[11]</sup>
 
-**Cara Kerja:** Blok reseptor histamin → kurangi produksi asam
-**Onset:** 30-60 menit
-**Durasi:** 6-12 jam
-**Dosis:** Famotidine 20 mg 2x sehari
+*Note: Ranitidine ditarik dari pasar 2020 karena kontaminasi NDMA (karsinogen)*
 
 #### 3. Proton Pump Inhibitor (PPI) ⭐ Terapi Utama
+
 **Contoh:**
 - Omeprazole (Omepros)
-- Lansoprazole (Lanzoprazole)
+- Lansoprazole
 - Esomeprazole (Nexium)
 - Pantoprazole (Pantozol)
 - Rabeprazole (Pariet)
 
-**Cara Kerja:** Blok pompa proton → hentikan produksi asam lambung
-**Keunggulan:** Paling efektif (90% respons)
-**Dosis:** 1x sehari, 30-60 menit sebelum sarapan
-**Durasi terapi:** 4-8 minggu (esofagitis), maintenance jangka panjang jika perlu
+**Cara Kerja:** Blok pompa proton H+/K+ ATPase → hentikan produksi asam lambung
 
-**Efek Samping Jangka Panjang (> 1 tahun):**
+**Efektivitas:** 85-90% healing esofagitis dalam 8 minggu<sup>[8]</sup> - superior dibanding H2RA (83% vs 52%)<sup>[11]</sup>
+
+**Dosis:** 1x sehari, **30-60 menit sebelum sarapan** (pompa proton aktif saat makan)
+
+**Durasi terapi:** 
+- Esofagitis: 4-8 minggu
+- NERD: 4 minggu
+- Maintenance: dosis terendah efektif atau on-demand
+
+**Efek Samping Jangka Panjang (>1 tahun):**<sup>[9]</sup>
 - ⚠️ Defisiensi vitamin B12, magnesium, kalsium
-- ⚠️ Risiko osteoporosis & fraktur tulang
-- ⚠️ Infeksi Clostridium difficile (diare)
-- ⚠️ Pneumonia
-- ⚠️ Nefritis interstitial (ginjal)
+- ⚠️ Risiko osteoporosis & fraktur (RR 1.25 untuk fraktur hip)<sup>[10]</sup>
+- ⚠️ Infeksi *Clostridium difficile* (diare)
+- ⚠️ Community-acquired pneumonia
+- ⚠️ Nefritis interstitial akut
+- ⚠️ Possible dementia risk (controversial)
 
-**Strategi:**
+**Strategi Aman:**
 - Gunakan dosis efektif terendah
 - Coba step-down ke H2RA setelah 8-12 minggu
 - Suplementasi vitamin B12, kalsium, magnesium
-- On-demand PPI (hanya saat gejala)
+- On-demand PPI (hanya saat gejala) untuk NERD
 
 #### 4. Prokinetik (Jarang, Kasus Khusus)
 **Contoh:** Metoclopramide, Domperidone
-**Fungsi:** Percepat pengosongan lambung, kuatkan LES
-**Indikasi:** GERD + gastroparesis
-**Efek samping:** Gangguan gerakan (ekstrapiramidal)
+- Percepat pengosongan lambung, kuatkan LES
+- **Indikasi:** GERD + gastroparesis (delayed gastric emptying)
+- **Efek samping:** Gangguan ekstrapiramidal, tardive dyskinesia
+- **Limited evidence** untuk GERD tanpa gastroparesis
 
 ### C. Operasi (Refractory GERD)
 
-#### Indikasi:
+#### Indikasi:<sup>[14]</sup>
 - Tidak respons terapi medis optimal
 - Komplikasi (striktur berulang, Barrett's)
 - Pasien muda yang tidak mau minum obat seumur hidup
-- Hernia hiatus besar
+- Hernia hiatus besar dengan gejala
+- Regurgitasi berat (volume)
 
 #### Jenis:
 
-**1. Nissen Fundoplication (Laparoskopi)**
+**1. Nissen Fundoplication (Laparoskopi)**<sup>[14]</sup>
 - Fundus lambung dililitkan 360° mengelilingi kerongkongan bawah
-- Kuatkan LES
-- Success rate: 85-90%
-- Efek samping: Sulit sendawa, disfagia (10-15%), gas bloat
+- Memperkuat LES secara mekanis
+- **Success rate:** 85-92% dalam 5 tahun
+- **Efek samping:** Sulit sendawa (10-15%), disfagia sementara, gas bloat syndrome
+- **Mortality:** <0.5%
 
-**2. LINX Device**
-- Cincin magnet di sekitar LES
-- Mencegah refluks tapi tetap bisa sendawa/muntah
-- Reversible
+**2. LINX Device (Magnetic Sphincter Augmentation)**<sup>[15]</sup>
+- Cincin manik titanium magnetik di sekitar LES
+- Gaya magnetik mencegah refluks tapi tetap bisa sendawa/muntah
+- Reversible (bisa dilepas)
+- Kontraindikasi: MRI tertentu (tergantung model device)
 
 **3. Stretta Procedure (Radiofrequency)**
-- RF energy → tebalkan LES
+- RF energy → remodeling & penebalan LES
 - Minimally invasive
-- Efektivitas < fundoplication
+- Efektivitas < fundoplication, evidence terbatas
 
 ---
 
 ## Pencegahan
 
 ### 1. Identifikasi & Hindari Trigger Foods
-- Buat food diary
-- Eliminasi satu per satu
+Buat food diary 2 minggu untuk identifikasi trigger personal. Eliminasi satu per satu.
 
 ### 2. Jaga Berat Badan Ideal
-- Setiap penurunan 1 BMI point → 10% kurangi gejala GERD
+Obesitas adalah faktor risiko utama GERD.<sup>[5]</sup> Setiap penurunan 1 poin BMI mengurangi gejala sebesar 10%.
 
 ### 3. Elevasi Kepala Tempat Tidur
-- Blok kayu 15-20 cm di bawah kaki ranjang kepala
-- Gravity membantu
+Blok kayu 15-20 cm di bawah kaki ranjang bagian kepala (bukan hanya tumpuk bantal). Gravity membantu mencegah refluks nokturnal.
 
 ### 4. Berhenti Merokok
-- Rokok = LES lemah + kurangi saliva
+Rokok melemahkan LES dan mengurangi produksi saliva (saliva menetralkan asam).
 
 ### 5. Hindari Tight Clothing
-- Jangan ikat pinggang ketat, korset
+Jangan ikat pinggang ketat, korset, atau celana ketat - meningkatkan tekanan intra-abdominal.
 
 ### 6. Kelola Stres
-- Stres → meningkatkan sensitivitas esofagus
-- Yoga, meditasi, olahraga
+Stres meningkatkan sensitivitas esofagus terhadap asam.<sup>[19]</sup> Yoga, meditasi, CBT dapat membantu.
 
 ---
 
 ## Mitos vs Fakta
 
 ### ❌ MITOS: "Asam lambung harus minum susu"
-✅ **FAKTA:** Susu awalnya menetralkan asam, tapi protein & lemak susu justru **merangsang produksi asam lebih banyak** 1-2 jam kemudian. Hindari!
+✅ **FAKTA:** Susu awalnya menetralkan asam (pH buffer), tapi protein & lemak susu justru **merangsang produksi asam lambung lebih banyak 1-2 jam kemudian** (acid rebound).<sup>[17]</sup> **Hindari!**
 
-### ❌ MITOS: "GERD cuma gangguan ringan"
-✅ **FAKTA:** GERD kronis tidak terkontrol → Barrett's esophagus → kanker esofagus (adenocarcinoma)
+### ❌ MITOS: "GERD cuma gangguan ringan, ga bahaya"
+✅ **FAKTA:** GERD kronis tidak terkontrol dapat progresi menjadi Barrett's esophagus → adenocarcinoma esofagus (0,12-0,5% per tahun).<sup>[6,7]</sup>
 
-### ❌ MITOS: "Nyeri dada = asam lambung"
-✅ **FAKTA:** Nyeri dada bisa serangan jantung! Jika nyeri dada + keringat dingin + sesak napas + menjalar ke lengan kiri → **SEGERA KE IGD**
+### ❌ MITOS: "Nyeri dada pasti asam lambung"
+✅ **FAKTA:** Nyeri dada bisa **serangan jantung (infark miokard)**! Jika nyeri dada + keringat dingin + sesak napas + radiasi ke lengan kiri/rahang → **SEGERA KE IGD, bukan minum antasida!** EKG diperlukan untuk membedakan.
 
-### ❌ MITOS: "PPI aman diminum selamanya"
-✅ **FAKTA:** PPI jangka panjang (> 1 tahun) berisiko defisiensi vitamin, osteoporosis, infeksi. Gunakan dosis minimum efektif.
+### ❌ MITOS: "PPI aman diminum selamanya tanpa efek samping"
+✅ **FAKTA:** PPI jangka panjang (>1 tahun) berisiko defisiensi vitamin B12/Mg/Ca, osteoporosis, infeksi *C. difficile*, dan nefritis interstitial.<sup>[9,10]</sup> Gunakan dosis minimum efektif, pertimbangkan step-down atau on-demand strategy.
 
 ### ❌ MITOS: "Endoskopi normal = tidak GERD"
-✅ **FAKTA:** 50-70% pasien GERD punya endoskopi normal (NERD). Diagnosis berdasarkan gejala + respons terapi.
+✅ **FAKTA:** 50-70% pasien GERD memiliki endoskopi normal (NERD - Non-Erosive Reflux Disease).<sup>[12]</sup> Diagnosis berdasarkan gejala klinis + respons terapi PPI. pH-metry 24 jam adalah gold standard.<sup>[13]</sup>
 
 ### ❌ MITOS: "Obat maag bisa diminum kapan saja"
-✅ **FAKTA:** PPI paling efektif **30-60 menit sebelum makan** (pagi hari sebelum sarapan), karena pompa proton aktif saat makan.
+✅ **FAKTA:** PPI paling efektif **30-60 menit sebelum makan pagi**, karena pompa proton H+/K+ ATPase paling aktif saat makan.<sup>[1]</sup> Minum PPI setelah makan atau malam hari jauh kurang efektif.
 
 ---
 
 ## Kapan Harus ke Dokter
 
-### ⚠️ SEGERA KE IGD:
-- Nyeri dada hebat + keringat dingin (bisa serangan jantung!)
-- Muntah darah / feses hitam (perdarahan saluran cerna)
-- Sulit menelan total (bahkan air liur)
-- Penurunan berat badan drastis tanpa sebab
+### ⚠️ SEGERA KE IGD (ALARM SYMPTOMS):
+- **Nyeri dada hebat + keringat dingin** (rule out cardiac!)
+- **Muntah darah** (hematemesis) / feses hitam seperti ter (melena) - perdarahan GI
+- **Disfagia total** (tidak bisa menelan bahkan air liur)
+- **Penurunan berat badan drastis** tanpa diet
+- **Anemia** (Hb rendah tanpa penyebab jelas)
 
 ### Konsultasi Dokter (Tidak Emergency):
-- Heartburn > 2x per minggu selama > 2 minggu
-- Gejala memburuk atau tidak respons antasida
-- Sulit menelan makanan padat
-- Suara serak persisten
+- Heartburn >2x per minggu selama >2 minggu
+- Gejala memburuk atau tidak respons antasida OTC
+- Disfagia progresif (makanan padat → lunak → cairan)
+- Suara serak persisten >2 minggu
 - Batuk kronis tanpa sebab jelas
 - Riwayat keluarga kanker esofagus/lambung
-- Usia > 50 tahun + gejala baru
+- Usia >50 tahun dengan gejala GERD baru
+- Gejala GERD >5-10 tahun (perlu screening Barrett's)
 
 ---
 
 ## Ringkasan
 
-**GERD = Asam lambung naik ke kerongkongan kronis**
+**GERD = Asam lambung naik ke kerongkongan kronis akibat disfungsi LES**
+
+### Prevalensi:
+- Global: 13%<sup>[4]</sup>
+- Asia: 8-10%<sup>[4,18]</sup>
+- Amerika/Eropa: 18-28%<sup>[4]</sup>
 
 ### Gejala Khas:
-- Heartburn (ulu hati panas)
-- Regurgitasi (asam naik ke mulut)
-- Suara serak
-- Batuk kronis
+- Heartburn (ulu hati panas) - paling spesifik
+- Regurgitasi asam
+- Suara serak, batuk kronis (atypical)
 
 ### Terapi:
-1. **Perubahan gaya hidup** (WAJIB!)
-2. **PPI** (omeprazole, lansoprazole) - terapi utama
-3. **Operasi** (fundoplication) - jika refractory
+1. **Lifestyle modification** (WAJIB!) - elevasi kepala, hindari trigger foods, turunkan berat badan<sup>[5,16]</sup>
+2. **PPI** (omeprazole, lansoprazole) - first-line, 85-90% efektif<sup>[8,11]</sup>
+3. **H2RA** (famotidine) - alternatif untuk gejala ringan atau on-demand
+4. **Operasi** (fundoplication) - untuk refractory cases, success 85-92%<sup>[14]</sup>
 
-### Pencegahan:
-- Hindari trigger foods (kopi, pedas, cokelat, tomat)
-- Porsi kecil, makan 3 jam sebelum tidur
-- Elevasi kepala tempat tidur
-- Turunkan berat badan
+### Komplikasi Serius:
+- Barrett's esophagus → adenocarcinoma (0,12-0,5%/tahun)<sup>[6]</sup>
+- Striktur esofagus
+- Perdarahan
 
-### Bahaya:
-- Barrett's esophagus → kanker esofagus
+### PPI Safety:
+- Jangka pendek (<8 minggu): Aman
+- Jangka panjang (>1 tahun): Risiko defisiensi vitamin, fraktur, C. diff<sup>[9,10]</sup>
+- **Strategi:** Dosis terendah efektif, step-down, on-demand
 
 ---
 
@@ -408,7 +400,7 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 ### Clinical Guidelines
 
-1. **American College of Gastroenterology (ACG)**
+1. **American College of Gastroenterology (ACG) - 2022 Update**
    - Katz PO, et al. *ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease*. Am J Gastroenterol. 2022;117(1):27-56. doi:10.14309/ajg.0000000000001538
 
 2. **American Gastroenterological Association (AGA)**
@@ -419,19 +411,16 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 ### Prevalence & Epidemiology
 
-4. **Global GERD Prevalence**
+4. **Global GERD Prevalence - Meta-analysis**
    - Eusebi LH, et al. *Global prevalence of, and risk factors for, gastro-oesophageal reflux symptoms: a meta-analysis*. Gut. 2018;67(3):430-440. doi:10.1136/gutjnl-2016-313589
-   - **Data:** Prevalensi global 13%, Asia 8-10%, Amerika/Eropa 18-28%
 
-5. **Obesity & GERD**
+5. **Obesity & GERD - Intervention Trial**
    - Singh M, et al. *Weight loss can lead to resolution of gastroesophageal reflux disease symptoms: a prospective intervention trial*. Obesity (Silver Spring). 2013;21(2):284-290. doi:10.1002/oby.20279
-   - **Data:** Setiap penurunan 1 BMI point → 10% pengurangan gejala GERD
 
 ### Barrett's Esophagus & Cancer Risk
 
-6. **Barrett's Progression to Cancer**
+6. **Barrett's Progression to Cancer - Meta-analysis**
    - Desai TK, et al. *The incidence of oesophageal adenocarcinoma in non-dysplastic Barrett's oesophagus: a meta-analysis*. Gut. 2012;61(7):970-976. doi:10.1136/gutjnl-2011-300730
-   - **Data:** Risiko kanker esofagus 0,12-0,5% per tahun pada Barrett's tanpa displasia
 
 7. **Adenocarcinoma Trends**
    - Hur C, et al. *Trends in esophageal adenocarcinoma incidence and mortality*. Cancer. 2013;119(6):1149-1158. doi:10.1002/cncr.27834
@@ -440,75 +429,68 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 8. **PPI Efficacy in GERD**
    - Khan M, et al. *Effectiveness of esomeprazole in the treatment of gastroesophageal reflux disease*. Expert Opin Pharmacother. 2012;13(11):1659-1666. doi:10.1517/14656566.2012.698611
-   - **Success rate:** 85-90% healing esofagitis dalam 8 minggu
 
-9. **Long-term PPI Safety**
+9. **Long-term PPI Safety Review**
    - Vaezi MF, et al. *Complications of Proton Pump Inhibitor Therapy*. Gastroenterology. 2017;153(1):35-48. doi:10.1053/j.gastro.2017.04.047
-   - **Risks:** Defisiensi B12, Mg, Ca; C. difficile infection; osteoporosis
 
-10. **PPI-Associated Fracture Risk**
+10. **PPI-Associated Fracture Risk - Meta-analysis**
     - Eom CS, et al. *Use of acid-suppressive drugs and risk of fracture: a meta-analysis of observational studies*. Ann Fam Med. 2011;9(3):257-267. doi:10.1370/afm.1243
-    - **Risk:** RR 1.25 (95% CI 1.14-1.37) untuk fraktur hip
 
 ### H2RA vs PPI
 
-11. **Meta-analysis H2RA vs PPI**
+11. **Meta-analysis: H2RA vs PPI**
     - Chiba N, et al. *Speed of healing and symptom relief in grade II to IV gastroesophageal reflux disease: a meta-analysis*. Gastroenterology. 1997;112(6):1798-1810. doi:10.1053/gast.1997.v112.pm9178669
-    - **PPI superior:** 83% vs 52% healing rate (H2RA)
 
 ### Non-Erosive Reflux Disease (NERD)
 
-12. **NERD Prevalence**
+12. **NERD Functional Disorders**
     - Aziz Q, et al. *Functional Esophageal Disorders*. Gastroenterology. 2016;150(6):1368-1379. doi:10.1053/j.gastro.2016.02.012
-    - **Data:** 50-70% pasien GERD punya endoskopi normal (NERD)
 
-### pH Monitoring
+### pH Monitoring - Gold Standard
 
-13. **Ambulatory pH Monitoring**
+13. **Lyon Consensus on GERD Diagnosis**
     - Gyawali CP, et al. *Modern diagnosis of GERD: the Lyon Consensus*. Gut. 2018;67(7):1351-1362. doi:10.1136/gutjnl-2017-314722
-    - **Gold standard:** 24-jam pH impedance monitoring
 
 ### Surgical Treatment
 
-14. **Fundoplication Efficacy**
+14. **Fundoplication vs PPI - RCT (LOTUS Trial)**
     - Galmiche JP, et al. *Laparoscopic antireflux surgery vs esomeprazole treatment for chronic GERD: the LOTUS randomized clinical trial*. JAMA. 2011;305(19):1969-1977. doi:10.1001/jama.2011.626
-    - **5-year data:** Fundoplication success 85-92%
 
-15. **LINX Device**
+15. **LINX Magnetic Device - Long-term Outcomes**
     - Ganz RA, et al. *Long-term Outcomes of Patients Receiving a Magnetic Sphincter Augmentation Device for Gastroesophageal Reflux*. Clin Gastroenterol Hepatol. 2016;14(5):671-677. doi:10.1016/j.cgh.2015.05.028
 
 ### Dietary Triggers
 
-16. **Systematic Review - Dietary Triggers**
+16. **Systematic Review - Diet & GERD**
     - Sethi S, et al. *Diet and Gastroesophageal Reflux Disease: Role in Pathogenesis and Management*. Curr Opin Gastroenterol. 2017;33(2):107-111. doi:10.1097/MOG.0000000000000337
-    - **Evidence-based triggers:** Kopi, cokelat, alkohol, makanan berlemak, tomat
 
 ### Milk Myth
 
-17. **Milk & Gastric Acid**
-    - Yagil R. *The potential of milk to exacerbate gastric reflux*. J Dairy Sci. 1992;75(7):1844-1850.
-    - **Data:** Protein & lemak susu merangsang produksi asam 1-2 jam post-intake
+17. **Milk & Gastric Acid Secretion**
+    - Yagil R. *Milk and stomach acidity*. J Dairy Sci. 1992;75(7):1844-1850.
 
-### Indonesian/Asian Context
+### Asian Context
 
-18. **GERD in Asia**
+18. **Asia-Pacific GERD Consensus - Update**
     - Fock KM, et al. *Asia-Pacific consensus on the management of gastroesophageal reflux disease: update*. J Gastroenterol Hepatol. 2016;31(12):1910-1915. doi:10.1111/jgh.13500
 
-### Treatment Guidelines Summary
+### Treatment Algorithm
 
-19. **Systematic Review - Treatment Algorithm**
+19. **Systematic Review - Management Trends**
     - Sandhu DS, Fass R. *Current Trends in the Management of Gastroesophageal Reflux Disease*. Gut Liver. 2018;12(1):7-16. doi:10.5009/gnl16615
 
 ---
 
 **Level of Evidence:**
-- **Grade A (Strong):** PPI untuk esofagitis erosif, elevasi kepala tempat tidur
-- **Grade B (Moderate):** Diet modification, H2RA untuk gejala ringan
-- **Grade C (Weak):** Prokinetik, akupunktur
+- **Grade A (Strong):** PPI untuk esofagitis erosif, elevasi kepala tempat tidur, penurunan berat badan
+- **Grade B (Moderate):** H2RA untuk gejala ringan-sedang, dietary modification
+- **Grade C (Weak):** Prokinetik, akupunktur, herbal remedies
 
 **Disclaimer:** 
-Materi ini untuk edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Keputusan diagnostik dan terapeutik harus dilakukan oleh dokter dengan mempertimbangkan kondisi klinis individual pasien.
+Materi ini disusun untuk tujuan edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Semua keputusan diagnostik dan terapeutik harus dilakukan oleh dokter yang merawat dengan mempertimbangkan kondisi klinis individual pasien, kontraindikasi, interaksi obat, dan preferensi pasien. Cardiac chest pain adalah life-threatening emergency - nyeri dada harus di-rule out cardiac cause terlebih dahulu sebelum menganggap GERD.
 
-**Conflict of Interest:** Tidak ada konflik kepentingan.
+**Conflict of Interest:** Tidak ada konflik kepentingan dalam penyusunan materi ini. Penulis tidak menerima funding dari industri farmasi.
+
+**Peer Review:** Materi ini belum melalui peer review formal. Untuk keperluan akademik atau klinis, mohon verifikasi dengan sumber primer dan clinical guidelines terbaru.
 
 **Last Updated:** 19 Juni 2026
