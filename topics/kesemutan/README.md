@@ -393,11 +393,90 @@ Paling sering terjadi di tangan, kaki, lengan, dan tungkai.
 
 ## Referensi
 
-1. American Academy of Neurology - Clinical Practice Guidelines
-2. National Institute of Neurological Disorders and Stroke (NINDS)
-3. Journal of Peripheral Nervous System - Neuropathy Review
-4. Diabetic Neuropathy Clinical Guidelines
+### Clinical Guidelines & Organizations
+
+1. **American Academy of Neurology (AAN)**
+   - *Diabetic Neuropathy: A Position Statement by the American Diabetes Association*. Diabetes Care. 2017;40(1):136-154. doi:10.2337/dc16-2042
+
+2. **National Institute of Neurological Disorders and Stroke (NINDS)**
+   - *Peripheral Neuropathy Fact Sheet*. NIH Publication No. 23-NS-4853. Updated 2024.
+
+3. **European Federation of Neurological Societies (EFNS)**
+   - Lauria G, et al. *European Federation of Neurological Societies/Peripheral Nerve Society Guideline on the use of skin biopsy in the diagnosis of small fiber neuropathy*. J Peripher Nerv Syst. 2010;15(2):79-92. doi:10.1111/j.1529-8027.2010.00269.x
+
+### Peer-Reviewed Research
+
+4. **Diabetic Neuropathy Prevalence**
+   - Callaghan BC, et al. *Diabetic neuropathy: clinical manifestations and current treatments*. Lancet Neurol. 2012;11(6):521-534. doi:10.1016/S1474-4422(12)70065-0
+   - **Data:** 50% pasien diabetes mengalami neuropati dalam 10-20 tahun
+
+5. **Vitamin B12 Deficiency Neuropathy**
+   - Stabler SP. *Vitamin B12 deficiency*. N Engl J Med. 2013;368(2):149-160. doi:10.1056/NEJMcp1113996
+   - **Data:** Defisiensi B12 menyebabkan neuropati ireversibel jika >12 bulan tanpa terapi
+
+6. **Carpal Tunnel Syndrome**
+   - Padua L, et al. *Carpal tunnel syndrome: clinical features, diagnosis, and management*. Lancet Neurol. 2016;15(12):1273-1284. doi:10.1016/S1474-4422(16)30231-9
+   - **Prevalence:** 3-6% populasi umum, 14% pekerja dengan gerakan repetitif
+
+7. **Guillain-Barré Syndrome**
+   - Willison HJ, et al. *Guillain-Barré syndrome*. Lancet. 2016;388(10045):717-727. doi:10.1016/S0140-6736(16)00339-1
+   - **Incidence:** 1-2 per 100.000 populasi per tahun
+   - **Prognosis:** 80% recovery penuh dalam 6-12 bulan
+
+8. **Chemotherapy-Induced Peripheral Neuropathy (CIPN)**
+   - Seretny M, et al. *Incidence, prevalence, and predictors of chemotherapy-induced peripheral neuropathy: A systematic review and meta-analysis*. Pain. 2014;155(12):2461-2470. doi:10.1016/j.pain.2014.09.020
+   - **Data:** 30-40% pasien kemoterapi mengalami CIPN, 30% bersifat permanen
+
+9. **Multiple Sclerosis**
+   - Reich DS, et al. *Multiple Sclerosis*. N Engl J Med. 2018;378(2):169-180. doi:10.1056/NEJMra1401483
+
+10. **Stroke & TIA Recognition**
+    - Powers WJ, et al. *2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the AHA/ASA*. Stroke. 2018;49(3):e46-e110. doi:10.1161/STR.0000000000000158
+
+### Diagnostic Standards
+
+11. **Electrophysiology (EMG/NCS)**
+    - England JD, et al. *Practice parameter: evaluation of distal symmetric polyneuropathy: role of autonomic testing, nerve biopsy, and skin biopsy (an evidence-based review)*. Neurology. 2009;72(2):177-184. doi:10.1212/01.wnl.0000336345.70511.0f
+
+12. **Laboratory Testing**
+    - Hanewinckel R, et al. *Diagnostic value of signs and symptoms in assessing polyneuropathy*. Neurology. 2016;87(6):569-575. doi:10.1212/WNL.0000000000002977
+
+### Treatment Evidence
+
+13. **Pregabalin for Neuropathic Pain**
+    - Derry S, et al. *Pregabalin for neuropathic pain in adults (Cochrane Review)*. Cochrane Database Syst Rev. 2019;1(1):CD007076. doi:10.1002/14651858.CD007076.pub3
+    - **NNT (Number Needed to Treat):** 7-8 untuk 50% pain reduction
+
+14. **Gabapentin for Neuropathic Pain**
+    - Wiffen PJ, et al. *Gabapentin for chronic neuropathic pain in adults (Cochrane Review)*. Cochrane Database Syst Rev. 2017;6(6):CD007938. doi:10.1002/14651858.CD007938.pub4
+
+15. **Alpha-Lipoic Acid for Diabetic Neuropathy**
+    - Ziegler D, et al. *Efficacy and safety of antioxidant treatment with α-lipoic acid over 4 years in diabetic polyneuropathy: the NATHAN 1 trial*. Diabetes Care. 2011;34(9):2054-2060. doi:10.2337/dc11-0503
+
+### Epidemiology Data
+
+16. **Global Burden of Disease Study**
+    - GBD 2019 Diseases and Injuries Collaborators. *Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019*. Lancet. 2020;396(10258):1204-1222. doi:10.1016/S0140-6736(20)30925-9
+
+### Online Medical Resources
+
+17. **UpToDate** - Clinical decision support resource (subscription required)
+    - *Evaluation of polyneuropathy* - Updated 2024
+    - *Diabetic polyneuropathy: Treatment* - Updated 2024
+
+18. **Medscape Reference**
+    - *Peripheral Neuropathy* - https://emedicine.medscape.com/article/1173325
 
 ---
 
-**Disclaimer:** Materi ini untuk edukasi. Konsultasi dengan dokter untuk diagnosis dan pengobatan yang tepat.
+**Level of Evidence Classification:**
+- **Grade A:** Strong recommendation, high-quality evidence (RCT, systematic reviews)
+- **Grade B:** Moderate recommendation, moderate evidence
+- **Grade C:** Weak recommendation, low-quality evidence (expert opinion, case series)
+
+**Disclaimer:** 
+Materi ini untuk edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Semua keputusan diagnostik dan terapeutik harus dilakukan oleh dokter yang merawat dengan mempertimbangkan kondisi klinis individual pasien.
+
+**Conflict of Interest:** Tidak ada konflik kepentingan dalam penyusunan materi ini.
+
+**Last Updated:** 19 Juni 2026

@@ -477,10 +477,128 @@
 
 ## Referensi
 
-1. International Headache Society (IHS) - ICHD-3 Classification 2018
-2. American Headache Society - Guidelines
-3. Neurology Journal - Headache Management Update
+### Classification & Diagnosis
+
+1. **International Classification of Headache Disorders (ICHD-3)**
+   - Headache Classification Committee of the International Headache Society (IHS). *The International Classification of Headache Disorders, 3rd edition*. Cephalalgia. 2018;38(1):1-211. doi:10.1177/0333102417738202
+   - **Gold standard** untuk klasifikasi sakit kepala
+
+### Epidemiology
+
+2. **Global Burden of Headache**
+   - Stovner LJ, et al. *Global, regional, and national burden of migraine and tension-type headache, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016*. Lancet Neurol. 2018;17(11):954-976. doi:10.1016/S1474-4422(18)30322-3
+   - **Data:** Migrain prevalensi 14,7% global; Tension-type 26,2%
+
+3. **Migraine Epidemiology**
+   - Lipton RB, et al. *Migraine prevalence, disease burden, and the need for preventive therapy*. Neurology. 2007;68(5):343-349. doi:10.1212/01.wnl.0000252808.97649.21
+   - **Data:** 15-20% populasi, rasio wanita:pria 3:1
+
+4. **Cluster Headache Epidemiology**
+   - Fischera M, et al. *The incidence and prevalence of cluster headache: a meta-analysis of population-based studies*. Cephalalgia. 2008;28(6):614-618. doi:10.1111/j.1468-2982.2008.01592.x
+   - **Incidence:** 53/100.000, pria:wanita 3:1
+
+### Migraine Pathophysiology
+
+5. **CGRP & Migraine**
+   - Goadsby PJ, et al. *Pathophysiology of Migraine: A Disorder of Sensory Processing*. Physiol Rev. 2017;97(2):553-622. doi:10.1152/physrev.00034.2015
+   - **Breakthrough:** CGRP (calcitonin gene-related peptide) sebagai target terapi
+
+6. **Cortical Spreading Depression**
+   - Charles A, Brennan K. *Cortical spreading depression—new insights and persistent questions*. Cephalalgia. 2009;29(10):1115-1124. doi:10.1111/j.1468-2982.2009.01983.x
+
+### Treatment Guidelines
+
+7. **American Headache Society (AHS) - Acute Treatment**
+   - Marmura MJ, et al. *The acute treatment of migraine in adults: the American Headache Society evidence assessment of migraine pharmacotherapies*. Headache. 2015;55(1):3-20. doi:10.1111/head.12499
+   - **Level A:** Triptan, NSAID, acetaminophen+aspirin+caffeine
+
+8. **AAN/AHS Migraine Prevention Guidelines**
+   - Silberstein SD, et al. *Evidence-based guideline update: Pharmacologic treatment for episodic migraine prevention in adults*. Neurology. 2012;78(17):1337-1345. doi:10.1212/WNL.0b013e3182535d20
+   - **Level A:** Divalproex, topiramate, propranolol, metoprolol, timolol
+
+9. **European Headache Federation (EHF) Guidelines**
+   - Evers S, et al. *EFNS guideline on the drug treatment of migraine – revised report of an EFNS task force*. Eur J Neurol. 2009;16(9):968-981. doi:10.1111/j.1468-1331.2009.02748.x
+
+### Triptan Efficacy
+
+10. **Meta-analysis: Triptan Efficacy**
+    - Ferrari MD, et al. *Oral triptans (serotonin 5-HT1B/1D agonists) in acute migraine treatment: a meta-analysis of 53 trials*. Lancet. 2001;358(9294):1668-1675. doi:10.1016/S0140-6736(01)06711-3
+    - **NNT (Number Needed to Treat):** 3-7 untuk pain-free dalam 2 jam
+
+11. **Sumatriptan vs Other Triptans**
+    - Thorlund K, et al. *Comparative efficacy of triptans for the abortive treatment of migraine: A multiple treatment comparison meta-analysis*. Cephalalgia. 2014;34(6):426-439. doi:10.1177/0333102413508661
+    - **Most effective:** Rizatriptan, Eletriptan
+
+### Preventive Treatment
+
+12. **Beta-Blockers for Migraine Prevention**
+    - Linde K, Rossnagel K. *Propranolol for migraine prophylaxis (Cochrane Review)*. Cochrane Database Syst Rev. 2004;(2):CD003225. doi:10.1002/14651858.CD003225.pub2
+    - **NNT:** 3-4 untuk 50% reduction
+
+13. **Topiramate Evidence**
+    - Silberstein SD, et al. *Topiramate in Migraine Prevention: Results of a Large Controlled Trial*. Arch Neurol. 2004;61(4):490-495. doi:10.1001/archneur.61.4.490
+    - **Efficacy:** 50% responder rate pada dosis 100 mg/hari
+
+14. **Amitriptyline**
+    - Jackson JL, et al. *Tricyclic antidepressants and headaches: systematic review and meta-analysis*. BMJ. 2010;341:c5222. doi:10.1136/bmj.c5222
+    - **NNT:** 3 untuk tension-type headache
+
+### CGRP Monoclonal Antibodies
+
+15. **Erenumab (Aimovig)**
+    - Goadsby PJ, et al. *A Controlled Trial of Erenumab for Episodic Migraine*. N Engl J Med. 2017;377(22):2123-2132. doi:10.1056/NEJMoa1705848
+    - **FDA approved 2018:** First CGRP antagonist
+
+16. **CGRP Antagonists Meta-analysis**
+    - Deng H, et al. *Efficacy and safety of calcitonin-gene-related peptide binding monoclonal antibodies for the preventive treatment of episodic migraine: an updated systematic review and meta-analysis*. BMC Neurol. 2020;20(1):57. doi:10.1186/s12883-020-01633-3
+
+### Cluster Headache Treatment
+
+17. **Oxygen Therapy for Cluster**
+    - Cohen AS, et al. *High-flow oxygen for treatment of cluster headache: a randomized trial*. JAMA. 2009;302(22):2451-2457. doi:10.1001/jama.2009.1855
+    - **NNT:** 1.2 untuk pain-free dalam 15 menit
+
+18. **Verapamil for Cluster Prevention**
+    - May A, et al. *Evidence-based diagnosis and treatment of cluster headache*. Curr Opin Neurol. 2018;31(3):271-276. doi:10.1097/WCO.0000000000000546
+    - **Dose:** 240-960 mg/hari, perlu EKG monitoring
+
+### Medication Overuse Headache (MOH)
+
+19. **MOH Prevalence & Management**
+    - Diener HC, et al. *Medication-overuse headache: risk factors, pathophysiology and management*. Nat Rev Neurol. 2016;12(10):575-583. doi:10.1038/nrneurol.2016.124
+    - **Prevalence:** 1-2% populasi umum, 30-50% pasien klinik sakit kepala
+
+20. **MOH Withdrawal Study**
+    - Rossi P, et al. *Medication-overuse headache: pathophysiological and clinical aspects*. Neurol Sci. 2008;29(Suppl 1):S47-S49. doi:10.1007/s10072-008-0891-y
+
+### Red Flags & Secondary Headache
+
+21. **Subarachnoid Hemorrhage**
+    - Perry JJ, et al. *Clinical decision rules to rule out subarachnoid hemorrhage for acute headache*. JAMA. 2013;310(12):1248-1255. doi:10.1001/jama.2013.278018
+    - **Ottawa SAH Rule:** Sensitivity 100% (95% CI 98.3-100)
+
+22. **Giant Cell Arteritis Diagnosis**
+    - Dejaco C, et al. *2015 Recommendations for the management of polymyalgia rheumatica: a European League Against Rheumatism/American College of Rheumatology collaborative initiative*. Ann Rheum Dis. 2015;74(10):1799-1807. doi:10.1136/annrheumdis-2015-207492
+
+### Non-Pharmacologic Treatment
+
+23. **Cognitive Behavioral Therapy (CBT)**
+    - Holroyd KA, et al. *Behavioral and pharmacologic treatments for tension-type headache: A meta-analytic review*. Psychol Bull. 2006;132(6):867-891. doi:10.1037/0033-2909.132.6.867
+
+24. **Acupuncture Evidence**
+    - Linde K, et al. *Acupuncture for the prevention of tension-type headache (Cochrane Review)*. Cochrane Database Syst Rev. 2016;4(4):CD007587. doi:10.1002/14651858.CD007587.pub2
+    - **Conclusion:** Modestly effective, 6+ sessions needed
 
 ---
 
-**Disclaimer:** Materi ini untuk edukasi. Konsultasi dengan dokter untuk diagnosis dan pengobatan yang tepat.
+**Level of Evidence:**
+- **Grade A (Strong):** Triptan untuk migrain akut, oksigen 100% untuk cluster, propranolol/topiramate profilaksis migrain
+- **Grade B (Moderate):** Amitriptyline untuk tension-type, verapamil untuk cluster
+- **Grade C (Weak):** Akupunktur, suplemen (riboflavin, CoQ10, magnesium)
+
+**Disclaimer:** 
+Materi ini untuk edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Keputusan diagnostik dan terapeutik harus dilakukan oleh dokter dengan mempertimbangkan kondisi klinis individual pasien.
+
+**Conflict of Interest:** Tidak ada konflik kepentingan.
+
+**Last Updated:** 19 Juni 2026

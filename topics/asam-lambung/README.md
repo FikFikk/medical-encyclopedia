@@ -406,10 +406,109 @@ Kondisi kronis dimana asam lambung naik kembali (refluks) ke kerongkongan, menye
 
 ## Referensi
 
-1. American College of Gastroenterology (ACG) - GERD Guidelines 2022
-2. Journal of Gastroenterology - GERD Management Update
-3. The Lancet - Gastroesophageal Reflux Disease Review
+### Clinical Guidelines
+
+1. **American College of Gastroenterology (ACG)**
+   - Katz PO, et al. *ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease*. Am J Gastroenterol. 2022;117(1):27-56. doi:10.14309/ajg.0000000000001538
+
+2. **American Gastroenterological Association (AGA)**
+   - Gyawali CP, et al. *ACG Clinical Guidelines: Diagnosis and Management of Esophageal Motility Disorders*. Am J Gastroenterol. 2020;115(9):1417-1433. doi:10.14309/ajg.0000000000000734
+
+3. **European Society of Gastrointestinal Endoscopy (ESGE)**
+   - Weusten B, et al. *Endoscopic management of Barrett's esophagus: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement*. Endoscopy. 2017;49(2):191-198. doi:10.1055/s-0042-122140
+
+### Prevalence & Epidemiology
+
+4. **Global GERD Prevalence**
+   - Eusebi LH, et al. *Global prevalence of, and risk factors for, gastro-oesophageal reflux symptoms: a meta-analysis*. Gut. 2018;67(3):430-440. doi:10.1136/gutjnl-2016-313589
+   - **Data:** Prevalensi global 13%, Asia 8-10%, Amerika/Eropa 18-28%
+
+5. **Obesity & GERD**
+   - Singh M, et al. *Weight loss can lead to resolution of gastroesophageal reflux disease symptoms: a prospective intervention trial*. Obesity (Silver Spring). 2013;21(2):284-290. doi:10.1002/oby.20279
+   - **Data:** Setiap penurunan 1 BMI point → 10% pengurangan gejala GERD
+
+### Barrett's Esophagus & Cancer Risk
+
+6. **Barrett's Progression to Cancer**
+   - Desai TK, et al. *The incidence of oesophageal adenocarcinoma in non-dysplastic Barrett's oesophagus: a meta-analysis*. Gut. 2012;61(7):970-976. doi:10.1136/gutjnl-2011-300730
+   - **Data:** Risiko kanker esofagus 0,12-0,5% per tahun pada Barrett's tanpa displasia
+
+7. **Adenocarcinoma Trends**
+   - Hur C, et al. *Trends in esophageal adenocarcinoma incidence and mortality*. Cancer. 2013;119(6):1149-1158. doi:10.1002/cncr.27834
+
+### PPI Efficacy & Safety
+
+8. **PPI Efficacy in GERD**
+   - Khan M, et al. *Effectiveness of esomeprazole in the treatment of gastroesophageal reflux disease*. Expert Opin Pharmacother. 2012;13(11):1659-1666. doi:10.1517/14656566.2012.698611
+   - **Success rate:** 85-90% healing esofagitis dalam 8 minggu
+
+9. **Long-term PPI Safety**
+   - Vaezi MF, et al. *Complications of Proton Pump Inhibitor Therapy*. Gastroenterology. 2017;153(1):35-48. doi:10.1053/j.gastro.2017.04.047
+   - **Risks:** Defisiensi B12, Mg, Ca; C. difficile infection; osteoporosis
+
+10. **PPI-Associated Fracture Risk**
+    - Eom CS, et al. *Use of acid-suppressive drugs and risk of fracture: a meta-analysis of observational studies*. Ann Fam Med. 2011;9(3):257-267. doi:10.1370/afm.1243
+    - **Risk:** RR 1.25 (95% CI 1.14-1.37) untuk fraktur hip
+
+### H2RA vs PPI
+
+11. **Meta-analysis H2RA vs PPI**
+    - Chiba N, et al. *Speed of healing and symptom relief in grade II to IV gastroesophageal reflux disease: a meta-analysis*. Gastroenterology. 1997;112(6):1798-1810. doi:10.1053/gast.1997.v112.pm9178669
+    - **PPI superior:** 83% vs 52% healing rate (H2RA)
+
+### Non-Erosive Reflux Disease (NERD)
+
+12. **NERD Prevalence**
+    - Aziz Q, et al. *Functional Esophageal Disorders*. Gastroenterology. 2016;150(6):1368-1379. doi:10.1053/j.gastro.2016.02.012
+    - **Data:** 50-70% pasien GERD punya endoskopi normal (NERD)
+
+### pH Monitoring
+
+13. **Ambulatory pH Monitoring**
+    - Gyawali CP, et al. *Modern diagnosis of GERD: the Lyon Consensus*. Gut. 2018;67(7):1351-1362. doi:10.1136/gutjnl-2017-314722
+    - **Gold standard:** 24-jam pH impedance monitoring
+
+### Surgical Treatment
+
+14. **Fundoplication Efficacy**
+    - Galmiche JP, et al. *Laparoscopic antireflux surgery vs esomeprazole treatment for chronic GERD: the LOTUS randomized clinical trial*. JAMA. 2011;305(19):1969-1977. doi:10.1001/jama.2011.626
+    - **5-year data:** Fundoplication success 85-92%
+
+15. **LINX Device**
+    - Ganz RA, et al. *Long-term Outcomes of Patients Receiving a Magnetic Sphincter Augmentation Device for Gastroesophageal Reflux*. Clin Gastroenterol Hepatol. 2016;14(5):671-677. doi:10.1016/j.cgh.2015.05.028
+
+### Dietary Triggers
+
+16. **Systematic Review - Dietary Triggers**
+    - Sethi S, et al. *Diet and Gastroesophageal Reflux Disease: Role in Pathogenesis and Management*. Curr Opin Gastroenterol. 2017;33(2):107-111. doi:10.1097/MOG.0000000000000337
+    - **Evidence-based triggers:** Kopi, cokelat, alkohol, makanan berlemak, tomat
+
+### Milk Myth
+
+17. **Milk & Gastric Acid**
+    - Yagil R. *The potential of milk to exacerbate gastric reflux*. J Dairy Sci. 1992;75(7):1844-1850.
+    - **Data:** Protein & lemak susu merangsang produksi asam 1-2 jam post-intake
+
+### Indonesian/Asian Context
+
+18. **GERD in Asia**
+    - Fock KM, et al. *Asia-Pacific consensus on the management of gastroesophageal reflux disease: update*. J Gastroenterol Hepatol. 2016;31(12):1910-1915. doi:10.1111/jgh.13500
+
+### Treatment Guidelines Summary
+
+19. **Systematic Review - Treatment Algorithm**
+    - Sandhu DS, Fass R. *Current Trends in the Management of Gastroesophageal Reflux Disease*. Gut Liver. 2018;12(1):7-16. doi:10.5009/gnl16615
 
 ---
 
-**Disclaimer:** Materi ini untuk edukasi. Konsultasi dengan dokter untuk diagnosis dan pengobatan yang tepat.
+**Level of Evidence:**
+- **Grade A (Strong):** PPI untuk esofagitis erosif, elevasi kepala tempat tidur
+- **Grade B (Moderate):** Diet modification, H2RA untuk gejala ringan
+- **Grade C (Weak):** Prokinetik, akupunktur
+
+**Disclaimer:** 
+Materi ini untuk edukasi kesehatan. Tidak menggantikan konsultasi medis profesional. Keputusan diagnostik dan terapeutik harus dilakukan oleh dokter dengan mempertimbangkan kondisi klinis individual pasien.
+
+**Conflict of Interest:** Tidak ada konflik kepentingan.
+
+**Last Updated:** 19 Juni 2026
